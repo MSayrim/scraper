@@ -1,0 +1,6 @@
+2024/11/28-03:07:14.980 3907 Reusing MANIFEST /Users/muratsayrim/IdeaProjects/pricescrapper/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/28-03:07:14.987 3907 Recovering log #4
+2024/11/28-03:07:14.988 3907 Reusing old log /Users/muratsayrim/IdeaProjects/pricescrapper/Default/Local Storage/leveldb/000004.log 
+2024/11/28-03:07:54.356 2f03 Level-0 table #7: started
+2024/11/28-03:07:54.360 2f03 Level-0 table #7: 19874 bytes OK
+2024/11/28-03:07:54.370 2f03 Delete type=0 #4
